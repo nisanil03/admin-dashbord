@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 
 import Sidebar from "./components/Sidebar";
 import OverviewPage from "./pages/OverviewPage";
-import ProductsPage from "./pages/productsPage";
+import ProductsPage from "./pages/ProductsPage";
 import UsersPage from "./pages/UsersPage";
 import SalesPage from "./pages/SalesPage";
 import OrdersPage from "./pages/OrdersPage";
